@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "食光 CalorieAI",
+    "slug": "foodlight",
+    "scheme": "appejgfa726qvi9",
+    "version": "1.0.34",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1",
+      "bundleIdentifier": "com.miaoda.appejgfa726qvi9"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#38764A"
+      },
+      "predictiveBackGestureEnabled": false,
+      "versionCode": 1,
+      "package": "com.miaoda.appejgfa726qvi9"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-sqlite",
+      "expo-font",
+      "expo-system-ui",
+      "expo-image",
+      "expo-video",
+      "expo-audio",
+      "expo-secure-store",
+      "expo-file-system",
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "允许食光访问相机以拍摄餐食照片",
+          "photosPermission": "允许食光访问相册以选择餐食图片"
+        }
+      ]
+    ],
+    "router": {
+      "root": "src"
+    },
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

@@ -1,0 +1,33 @@
+# Local accounts, health records, uploads, and generated media
+local-app/local-server/data/
+**/local-accounts.txt
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Secrets: publish examples only
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Downloaded runtimes, models, dependencies, and caches
+runtime/
+tools/
+local-models/
+local-app/local-models/
+node_modules/
+.expo/
+.metro-cache/
+.native-wind-cache/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+backups/
+dist/
+web-build/
+VALIDATION-REPORT.json

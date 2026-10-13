@@ -1,0 +1,1 @@
+ALTER TABLE meal_logs ADD COLUMN IF NOT EXISTS gl_value numeric DEFAULT 0;

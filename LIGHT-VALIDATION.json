@@ -1,0 +1,13 @@
+{
+  "verifiedAt": "2026-10-13T06:50:42.312031+00:00",
+  "distribution": "light-open-source",
+  "checks": {
+    "privateDataExcluded": true,
+    "prebuiltWebScriptsPresent": true,
+    "applicationCodeAndAssetsMatchSource": true,
+    "freshEmptyDatabaseCreated": true,
+    "newAccountRegistrationAndLogin": true,
+    "ownProfileReadable": true
+  },
+  "scope": "Fresh backend and prebuilt script references; AI models and frontend dependency tests were not run."
+}

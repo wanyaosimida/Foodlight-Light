@@ -1,0 +1,15 @@
+{
+  "OLLAMA_HOST": "127.0.0.1:11434",
+  "OLLAMA_CONTEXT_LENGTH": "8192",
+  "OLLAMA_NUM_PARALLEL": "1",
+  "OLLAMA_MAX_LOADED_MODELS": "1",
+  "OLLAMA_NO_CLOUD": "1",
+  "LOCAL_AI_BASE_URL": "http://127.0.0.1:11434/v1",
+  "LOCAL_AI_MODEL": "qwen3-vl:4b-instruct",
+  "LOCAL_AI_VISION_MODEL": "qwen3-vl:4b-instruct",
+  "LOCAL_AI_STRUCTURED_OUTPUT": "true",
+  "LOCAL_AI_TIMEOUT_MS": "300000",
+  "LOCAL_SOUND_URL": "http://127.0.0.1:54322/v1/audio/sound",
+  "LOCAL_IMAGE_GENERATION_URL": "http://127.0.0.1:54322/v1/images/generations",
+  "LOCAL_IMAGE_EDIT_URL": "http://127.0.0.1:54322/v1/images/edits"
+}

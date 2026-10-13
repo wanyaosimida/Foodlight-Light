@@ -1,0 +1,2 @@
+# Preserve original package bytes so SHA256 verification also works after clone.
+* -text

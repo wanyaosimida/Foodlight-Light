@@ -1,0 +1,34 @@
+{
+  "description": "Original static recommendation images from recovered Miaoda source, bundled unchanged for offline use",
+  "downloadedAt": "2026-09-22T07:32:24.557Z",
+  "files": [
+    {
+      "file": "f1.png",
+      "source": "https://miaoda-site-img.cdn.bcebos.com/images/docsearch_e0ee55f0-361c-4414-a6bf-95696015d610.png",
+      "bytes": 1467183,
+      "contentType": "image/png",
+      "sha256": "ca9a00fe9eda346245db178cf869fb768a0435cc9c09fa0199d3fde7a0a0aeda"
+    },
+    {
+      "file": "f2.png",
+      "source": "https://miaoda-site-img.cdn.bcebos.com/images/docsearch_36d45524-2d45-4fa9-a0e2-69e4356bef39.png",
+      "bytes": 1613906,
+      "contentType": "image/png",
+      "sha256": "3b2c7a3fe559beeb8c0bf3d5c62d275177005373dd9734ae3c93f1b77baec0d5"
+    },
+    {
+      "file": "f3.png",
+      "source": "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_c06ac378-0bfc-4e38-be89-6cbefd19fbba.png",
+      "bytes": 2134210,
+      "contentType": "image/png",
+      "sha256": "6e1405e42f8eef9fff82a785807cdc4d8379f8153596ffe9d86d0f66e1351707"
+    },
+    {
+      "file": "f4.png",
+      "source": "https://miaoda-site-img.cdn.bcebos.com/images/baidu_image_search_3e2e866c-ce7c-413c-bc0b-3f398fc345a0.png",
+      "bytes": 3951180,
+      "contentType": "image/png",
+      "sha256": "c5c3d63a9f54b49c41797f12655db256f6834ffc092a3ca62c33eb9069b0146c"
+    }
+  ]
+}

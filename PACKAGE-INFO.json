@@ -1,0 +1,25 @@
+{
+  "distribution": "light-open-source",
+  "target": "Windows 10/11 x64",
+  "sourcePackageDate": "2026-10-09",
+  "preparedDate": "2026-10-13",
+  "license": "MIT",
+  "included": [
+    "前后端源码",
+    "已编译网页",
+    "应用素材",
+    "Windows 启动脚本",
+    "下载说明"
+  ],
+  "excluded": [
+    "私人账号与密码",
+    "SQLite 业务数据",
+    "用户上传图片",
+    "生成媒体",
+    "模型",
+    "运行环境",
+    "node_modules",
+    "缓存与日志"
+  ],
+  "databaseInitialization": "后端首次启动自动创建空数据库，用户自行注册账号"
+}

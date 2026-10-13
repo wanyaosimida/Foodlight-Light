@@ -1,0 +1,5 @@
+Powered by Stability AI
+This Stability AI Model is licensed under the Stability AI Community License, Copyright © Stability AI Ltd. All Rights Reserved.
+Unmodified SD-Turbo weights: https://huggingface.co/stabilityai/sd-turbo
+See LICENSE.sd-turbo.md for the model license.
+Inference runtime: stable-diffusion.cpp, commit 74988b2; see bin/stable-diffusion.cpp.txt and bin/ggml.txt.
